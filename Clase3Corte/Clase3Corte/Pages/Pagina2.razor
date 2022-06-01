@@ -1,0 +1,107 @@
+﻿@page "/Pagina2"
+@inject HttpClient client;
+@using System.Net.Http.Json
+@using Clase3Corte.Data
+<PageTitle>Comidas</PageTitle>
+<br />
+<MudButton OnClick = "(args) => AgregarNuevoRegistro()" Variant="Variant.Filled" Color="Color.Error">Añadir</MudButton>
+   
+
+<MudDataGrid T="Comida" Items="@Comidas" ReadOnly="@_readOnly" EditMode="@(_isCellEditMode ? DataGridEditMode.Cell : DataGridEditMode.Form)"
+    StartedEditingItem="@StartedEditingItem" CancelledEditingItem="@CancelledEditingItem" CommittedItemChanges="@CommittedItemChanges"
+    Bordered="true" Dense="true" EditTrigger="@(_editTriggerRowClick ? DataGridEditTrigger.OnRowClick : DataGridEditTrigger.Manual)">
+    <Columns>
+        <Column T="Comida" Field="IdComida" Title="Id" IsEditable="false" />
+        <Column T="Comida" Field="Nombre" Title="Nombre" />
+        <Column T="Comida" Field="Categoria" Title="Categoria" />
+        <Column T="Comida" Field="PaisOrigen" Title="PaisOrigen"/>
+        <Column T="Comida" Field="Costo" Title="Costo" />
+        <Column T="Comida" Field="Descripcion"   Title="Descripción" />
+        <Column T="Comida" Hidden="@(_isCellEditMode || _readOnly || _editTriggerRowClick)" CellClass="d-flex justify-end">
+            <CellTemplate>
+                <MudIconButton Size="@Size.Small" Icon="@Icons.Outlined.Edit" OnClick="@context.Actions.StartEditingItem" />
+                 <MudIconButton Size="@Size.Small" Icon="@Icons.Outlined.Delete" OnClick="(args)=>EliminarEvento(context.Item)" />
+            </CellTemplate>
+        </Column>
+    </Columns>
+</MudDataGrid>
+
+
+
+@code {
+    private IEnumerable<Comida> Comidas = new List<Comida>();
+    private bool _readOnly;
+    private bool _isCellEditMode;
+    private List<string> _events = new();
+    private bool _editTriggerRowClick;
+
+    protected override async Task OnInitializedAsync()
+    {
+        var elemento = new List<Comida>();
+        client.BaseAddress = new Uri("https://localhost:7174/");
+        var RequestMessage = new HttpRequestMessage(HttpMethod.Get, "Biblioteca/ConsultarComidas");
+        var respuesta = await client.SendAsync(RequestMessage);
+
+        Comidas = elemento;
+    }
+
+
+
+    async void EliminarEvento(Comida elemento)
+    {
+                var i = elemento.IdComida;
+        ((List<Comida>)Comidas).Remove(elemento);
+        //client.BaseAddress = new Uri("https://localhost:7174/");
+        var requestMessage = new HttpRequestMessage(HttpMethod.Delete, "Biblioteca/BorrarComidas?ID="+i+"");
+        var respuesta = await client.SendAsync(requestMessage);
+        StateHasChanged();
+    }
+
+    async Task AgregarNuevoRegistro()
+    {
+
+        var elemento = new Comida
+            {
+                IdComida = 0000,
+                Nombre = "Nombre",
+                Categoria = "Categoria",
+                PaisOrigen = "PaisOrigen",
+                Costo = 122,
+                Descripcion = "Descripción",
+            };
+        ((List<Comida>)Comidas).Add(elemento);
+         var requestMessage = new HttpRequestMessage(HttpMethod.Post, "Biblioteca/AgregarComida?IdComida=0000&Nombre=Nombre&Categoria=Categoria&PaisOrigen=PaisOrigen&Costo=Costo&Descripcion=Descripcion");
+        var respuesta = await client.SendAsync(requestMessage);
+        if (respuesta.StatusCode == System.Net.HttpStatusCode.OK)
+        {
+
+        }
+        StateHasChanged();
+    
+          }
+    
+    // events
+    void StartedEditingItem(Comida item)
+    {
+        _events.Insert(0, $"Event = StartedEditingItem, Data = {System.Text.Json.JsonSerializer.Serialize(item)}");
+    }
+
+    void CancelledEditingItem(Comida item)
+    {
+        _events.Insert(0, $"Event = CancelledEditingItem, Data = {System.Text.Json.JsonSerializer.Serialize(item)}");
+    }
+    //este servirá para guardar o actualizar registros
+    void CommittedItemChanges(Comida item)
+    {
+         var id = item.IdComida;
+        var titu = item.Nombre;
+        var edit = item.Categoria;
+        var aut = item.PaisOrigen;
+        var pag = item.Costo;
+        var desc = item.Descripcion;
+        var requestMessage = new HttpRequestMessage(HttpMethod.Put, "Biblioteca/ActualizarComida?ID="+id+"&Nombre="+titu+"&Categoria="+edit+"&Autor="+aut+"&Costo="+pag+"&Descripcion="+desc);
+       
+        _events.Insert(0, $"Event = CommittedItemChanges, Data = {System.Text.Json.JsonSerializer.Serialize(item)}");
+        StateHasChanged();
+    }
+}

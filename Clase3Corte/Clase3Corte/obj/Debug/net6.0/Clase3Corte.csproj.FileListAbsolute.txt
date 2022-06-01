@@ -1,0 +1,102 @@
+C:\Users\57320\source\repos\Clase3Corte\Clase3Corte\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\57320\source\repos\Clase3Corte\Clase3Corte\bin\Debug\net6.0\appsettings.json
+C:\Users\57320\source\repos\Clase3Corte\Clase3Corte\bin\Debug\net6.0\Clase3Corte.staticwebassets.runtime.json
+C:\Users\57320\source\repos\Clase3Corte\Clase3Corte\bin\Debug\net6.0\Clase3Corte.exe
+C:\Users\57320\source\repos\Clase3Corte\Clase3Corte\bin\Debug\net6.0\Clase3Corte.deps.json
+C:\Users\57320\source\repos\Clase3Corte\Clase3Corte\bin\Debug\net6.0\Clase3Corte.runtimeconfig.json
+C:\Users\57320\source\repos\Clase3Corte\Clase3Corte\bin\Debug\net6.0\Clase3Corte.dll
+C:\Users\57320\source\repos\Clase3Corte\Clase3Corte\bin\Debug\net6.0\Clase3Corte.pdb
+C:\Users\57320\source\repos\Clase3Corte\Clase3Corte\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\57320\source\repos\Clase3Corte\Clase3Corte\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+C:\Users\57320\source\repos\Clase3Corte\Clase3Corte\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\57320\source\repos\Clase3Corte\Clase3Corte\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\57320\source\repos\Clase3Corte\Clase3Corte\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\57320\source\repos\Clase3Corte\Clase3Corte\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\57320\source\repos\Clase3Corte\Clase3Corte\bin\Debug\net6.0\Microsoft.JSInterop.dll
+C:\Users\57320\source\repos\Clase3Corte\Clase3Corte\bin\Debug\net6.0\MudBlazor.dll
+C:\Users\57320\source\repos\Clase3Corte\Clase3Corte\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\57320\source\repos\Clase3Corte\Clase3Corte\obj\Debug\net6.0\Clase3Corte.csproj.AssemblyReference.cache
+C:\Users\57320\source\repos\Clase3Corte\Clase3Corte\obj\Debug\net6.0\Clase3Corte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\57320\source\repos\Clase3Corte\Clase3Corte\obj\Debug\net6.0\Clase3Corte.AssemblyInfoInputs.cache
+C:\Users\57320\source\repos\Clase3Corte\Clase3Corte\obj\Debug\net6.0\Clase3Corte.AssemblyInfo.cs
+C:\Users\57320\source\repos\Clase3Corte\Clase3Corte\obj\Debug\net6.0\Clase3Corte.csproj.CoreCompileInputs.cache
+C:\Users\57320\source\repos\Clase3Corte\Clase3Corte\obj\Debug\net6.0\Clase3Corte.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\57320\source\repos\Clase3Corte\Clase3Corte\obj\Debug\net6.0\Clase3Corte.RazorAssemblyInfo.cache
+C:\Users\57320\source\repos\Clase3Corte\Clase3Corte\obj\Debug\net6.0\Clase3Corte.RazorAssemblyInfo.cs
+C:\Users\57320\source\repos\Clase3Corte\Clase3Corte\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\57320\source\repos\Clase3Corte\Clase3Corte\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\57320\source\repos\Clase3Corte\Clase3Corte\obj\Debug\net6.0\scopedcss\bundle\Clase3Corte.styles.css
+C:\Users\57320\source\repos\Clase3Corte\Clase3Corte\obj\Debug\net6.0\Clase3Corte.csproj.CopyComplete
+C:\Users\57320\source\repos\Clase3Corte\Clase3Corte\obj\Debug\net6.0\Clase3Corte.dll
+C:\Users\57320\source\repos\Clase3Corte\Clase3Corte\obj\Debug\net6.0\refint\Clase3Corte.dll
+C:\Users\57320\source\repos\Clase3Corte\Clase3Corte\obj\Debug\net6.0\Clase3Corte.pdb
+C:\Users\57320\source\repos\Clase3Corte\Clase3Corte\obj\Debug\net6.0\Clase3Corte.genruntimeconfig.cache
+C:\Users\57320\source\repos\Clase3Corte\Clase3Corte\obj\Debug\net6.0\ref\Clase3Corte.dll
+C:\Users\braba\Desktop\Clase3Corte\Clase3Corte\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\braba\Desktop\Clase3Corte\Clase3Corte\bin\Debug\net6.0\appsettings.json
+C:\Users\braba\Desktop\Clase3Corte\Clase3Corte\bin\Debug\net6.0\Clase3Corte.staticwebassets.runtime.json
+C:\Users\braba\Desktop\Clase3Corte\Clase3Corte\bin\Debug\net6.0\Clase3Corte.exe
+C:\Users\braba\Desktop\Clase3Corte\Clase3Corte\bin\Debug\net6.0\Clase3Corte.deps.json
+C:\Users\braba\Desktop\Clase3Corte\Clase3Corte\bin\Debug\net6.0\Clase3Corte.runtimeconfig.json
+C:\Users\braba\Desktop\Clase3Corte\Clase3Corte\bin\Debug\net6.0\Clase3Corte.dll
+C:\Users\braba\Desktop\Clase3Corte\Clase3Corte\bin\Debug\net6.0\Clase3Corte.pdb
+C:\Users\braba\Desktop\Clase3Corte\Clase3Corte\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\braba\Desktop\Clase3Corte\Clase3Corte\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+C:\Users\braba\Desktop\Clase3Corte\Clase3Corte\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\braba\Desktop\Clase3Corte\Clase3Corte\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\braba\Desktop\Clase3Corte\Clase3Corte\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\braba\Desktop\Clase3Corte\Clase3Corte\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\braba\Desktop\Clase3Corte\Clase3Corte\bin\Debug\net6.0\Microsoft.JSInterop.dll
+C:\Users\braba\Desktop\Clase3Corte\Clase3Corte\bin\Debug\net6.0\MudBlazor.dll
+C:\Users\braba\Desktop\Clase3Corte\Clase3Corte\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\braba\Desktop\Clase3Corte\Clase3Corte\obj\Debug\net6.0\Clase3Corte.csproj.AssemblyReference.cache
+C:\Users\braba\Desktop\Clase3Corte\Clase3Corte\obj\Debug\net6.0\Clase3Corte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\braba\Desktop\Clase3Corte\Clase3Corte\obj\Debug\net6.0\Clase3Corte.AssemblyInfoInputs.cache
+C:\Users\braba\Desktop\Clase3Corte\Clase3Corte\obj\Debug\net6.0\Clase3Corte.AssemblyInfo.cs
+C:\Users\braba\Desktop\Clase3Corte\Clase3Corte\obj\Debug\net6.0\Clase3Corte.csproj.CoreCompileInputs.cache
+C:\Users\braba\Desktop\Clase3Corte\Clase3Corte\obj\Debug\net6.0\Clase3Corte.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\braba\Desktop\Clase3Corte\Clase3Corte\obj\Debug\net6.0\Clase3Corte.RazorAssemblyInfo.cache
+C:\Users\braba\Desktop\Clase3Corte\Clase3Corte\obj\Debug\net6.0\Clase3Corte.RazorAssemblyInfo.cs
+C:\Users\braba\Desktop\Clase3Corte\Clase3Corte\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\braba\Desktop\Clase3Corte\Clase3Corte\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\braba\Desktop\Clase3Corte\Clase3Corte\obj\Debug\net6.0\scopedcss\bundle\Clase3Corte.styles.css
+C:\Users\braba\Desktop\Clase3Corte\Clase3Corte\obj\Debug\net6.0\Clase3Corte.csproj.CopyComplete
+C:\Users\braba\Desktop\Clase3Corte\Clase3Corte\obj\Debug\net6.0\Clase3Corte.dll
+C:\Users\braba\Desktop\Clase3Corte\Clase3Corte\obj\Debug\net6.0\refint\Clase3Corte.dll
+C:\Users\braba\Desktop\Clase3Corte\Clase3Corte\obj\Debug\net6.0\Clase3Corte.pdb
+C:\Users\braba\Desktop\Clase3Corte\Clase3Corte\obj\Debug\net6.0\Clase3Corte.genruntimeconfig.cache
+C:\Users\braba\Desktop\Clase3Corte\Clase3Corte\obj\Debug\net6.0\ref\Clase3Corte.dll
+C:\Users\Juan Esteban Pinilla\Desktop\Clase3Corte\Clase3Corte\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Juan Esteban Pinilla\Desktop\Clase3Corte\Clase3Corte\bin\Debug\net6.0\appsettings.json
+C:\Users\Juan Esteban Pinilla\Desktop\Clase3Corte\Clase3Corte\bin\Debug\net6.0\Clase3Corte.staticwebassets.runtime.json
+C:\Users\Juan Esteban Pinilla\Desktop\Clase3Corte\Clase3Corte\bin\Debug\net6.0\Clase3Corte.exe
+C:\Users\Juan Esteban Pinilla\Desktop\Clase3Corte\Clase3Corte\bin\Debug\net6.0\Clase3Corte.deps.json
+C:\Users\Juan Esteban Pinilla\Desktop\Clase3Corte\Clase3Corte\bin\Debug\net6.0\Clase3Corte.runtimeconfig.json
+C:\Users\Juan Esteban Pinilla\Desktop\Clase3Corte\Clase3Corte\bin\Debug\net6.0\Clase3Corte.dll
+C:\Users\Juan Esteban Pinilla\Desktop\Clase3Corte\Clase3Corte\bin\Debug\net6.0\Clase3Corte.pdb
+C:\Users\Juan Esteban Pinilla\Desktop\Clase3Corte\Clase3Corte\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Juan Esteban Pinilla\Desktop\Clase3Corte\Clase3Corte\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+C:\Users\Juan Esteban Pinilla\Desktop\Clase3Corte\Clase3Corte\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Juan Esteban Pinilla\Desktop\Clase3Corte\Clase3Corte\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Juan Esteban Pinilla\Desktop\Clase3Corte\Clase3Corte\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Juan Esteban Pinilla\Desktop\Clase3Corte\Clase3Corte\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Juan Esteban Pinilla\Desktop\Clase3Corte\Clase3Corte\bin\Debug\net6.0\Microsoft.JSInterop.dll
+C:\Users\Juan Esteban Pinilla\Desktop\Clase3Corte\Clase3Corte\bin\Debug\net6.0\MudBlazor.dll
+C:\Users\Juan Esteban Pinilla\Desktop\Clase3Corte\Clase3Corte\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\Juan Esteban Pinilla\Desktop\Clase3Corte\Clase3Corte\obj\Debug\net6.0\Clase3Corte.csproj.AssemblyReference.cache
+C:\Users\Juan Esteban Pinilla\Desktop\Clase3Corte\Clase3Corte\obj\Debug\net6.0\Clase3Corte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Esteban Pinilla\Desktop\Clase3Corte\Clase3Corte\obj\Debug\net6.0\Clase3Corte.AssemblyInfoInputs.cache
+C:\Users\Juan Esteban Pinilla\Desktop\Clase3Corte\Clase3Corte\obj\Debug\net6.0\Clase3Corte.AssemblyInfo.cs
+C:\Users\Juan Esteban Pinilla\Desktop\Clase3Corte\Clase3Corte\obj\Debug\net6.0\Clase3Corte.csproj.CoreCompileInputs.cache
+C:\Users\Juan Esteban Pinilla\Desktop\Clase3Corte\Clase3Corte\obj\Debug\net6.0\Clase3Corte.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Juan Esteban Pinilla\Desktop\Clase3Corte\Clase3Corte\obj\Debug\net6.0\Clase3Corte.RazorAssemblyInfo.cache
+C:\Users\Juan Esteban Pinilla\Desktop\Clase3Corte\Clase3Corte\obj\Debug\net6.0\Clase3Corte.RazorAssemblyInfo.cs
+C:\Users\Juan Esteban Pinilla\Desktop\Clase3Corte\Clase3Corte\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Juan Esteban Pinilla\Desktop\Clase3Corte\Clase3Corte\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Juan Esteban Pinilla\Desktop\Clase3Corte\Clase3Corte\obj\Debug\net6.0\scopedcss\bundle\Clase3Corte.styles.css
+C:\Users\Juan Esteban Pinilla\Desktop\Clase3Corte\Clase3Corte\obj\Debug\net6.0\Clase3Corte.csproj.CopyComplete
+C:\Users\Juan Esteban Pinilla\Desktop\Clase3Corte\Clase3Corte\obj\Debug\net6.0\Clase3Corte.dll
+C:\Users\Juan Esteban Pinilla\Desktop\Clase3Corte\Clase3Corte\obj\Debug\net6.0\refint\Clase3Corte.dll
+C:\Users\Juan Esteban Pinilla\Desktop\Clase3Corte\Clase3Corte\obj\Debug\net6.0\Clase3Corte.pdb
+C:\Users\Juan Esteban Pinilla\Desktop\Clase3Corte\Clase3Corte\obj\Debug\net6.0\Clase3Corte.genruntimeconfig.cache
+C:\Users\Juan Esteban Pinilla\Desktop\Clase3Corte\Clase3Corte\obj\Debug\net6.0\ref\Clase3Corte.dll
